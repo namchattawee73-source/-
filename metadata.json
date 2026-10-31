@@ -1,0 +1,6 @@
+{
+  "name": "SU Smart Transit",
+  "description": "Silpakorn University campus shuttle bus tracking and transit system for SU Smart Campus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
